@@ -1,6 +1,6 @@
 # defcon-ai-ctf-2023
 
-My solutions for the [DEFCON AI capture the flag](https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31/overview) competition. I solved 23 out of 27 problems and was ranked **21/1360**.
+My solutions for the [AI Village Capture the Flag @ DEFCON31](https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31/overview) competition. I solved 23 out of 27 problems and was ranked **21/1360**.
 
 **Test**
 - Any string returns the flag.
